@@ -1,5 +1,5 @@
 import { Canvas } from '@react-three/fiber';
-import { Environment, Float, Stars } from '@react-three/drei';
+import { Environment, Stars } from '@react-three/drei';
 import { EffectComposer, Bloom, Noise, SMAA } from '@react-three/postprocessing';
 import { CameraManager } from './CameraManager';
 import { Suspense } from 'react';

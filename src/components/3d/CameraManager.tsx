@@ -1,6 +1,6 @@
 import { useRef } from 'react';
 import { useFrame } from '@react-three/fiber';
-import { Vector3, MathUtils } from 'three';
+import { Vector3 } from 'three';
 import { usePortfolioStore } from '../../store/usePortfolioStore';
 import { sectionCoordinates } from '../../data/portfolioData';
 

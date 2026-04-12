@@ -1,4 +1,4 @@
-import React, { Suspense, useEffect } from 'react';
+import { useEffect } from 'react';
 import { Scene } from './components/3d/Scene';
 import { HeroSection } from './components/3d/HeroSection';
 import { AboutSection } from './components/3d/AboutSection';
